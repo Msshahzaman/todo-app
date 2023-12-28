@@ -42,7 +42,7 @@ setEditIndex(inputText)
     copyList[EditIndex] = inputText
     setList(copyList)
 
-// setEditMode(false)
+setEditMode(false)
 
  }
 
